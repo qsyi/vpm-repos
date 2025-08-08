@@ -1,7 +1,7 @@
 {
-    "name":"qsyi",
+    "name":"qsyi-VPM-repos",
     "id":"jp.qsyi.vpm",
-    "url":"https://qsyi.github.io/vpm-repos/vpm.json",
+    "url":"https://qsyi.github.io/vpm-repos/index.json",
     "author":{
         "name":"qsyi",
         "url":"https://github.com/qsyi"
